@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> d3a9605d1a74edcbbb2c582f662dcfa4e28b2736
 # Municipal Culture Events Management System 🎭
 
 ## Overview
@@ -82,3 +86,7 @@ This comprehensive web application revolutionizes the management of municipal cu
 - Responsive design
 - Mobile-friendly interface
 - Basic viewport support
+<<<<<<< HEAD
+=======
+
+>>>>>>> d3a9605d1a74edcbbb2c582f662dcfa4e28b2736
